@@ -9,15 +9,17 @@ Did this as a way to learn a bit of Python and to see if I could cut down on too
 
 Python-based, so it can be run in platforms besides Windows; Python script and standalone Windows application included.
 * Supports NFS3 and HS FCE files
-* Does the expected FCE color edition features: edit, add, delete and copy color sets.
+* Does the expected FCE color edition features: edit, add, delete and copy color sets. Can also sort colors.
 * HSVT, HTML and color picker-based color selection for precise or convenient color edition.
 * Can export and import color tables to and from CSV files, said files are compatible with both FCE versions.
 * Displays colors accounting for tolerance values in aim to pursue the best color display accuracy.
-* Add a random color set or generate a whole color table of random colors (novelty feature because half the time you get eye-searing combos, but hey, it's worth the flex 💪).
+* Add a random color set or generate a whole color table of random colors, with various settings.
 
 ## Requirements
 
 * Python 3 (tested with Python 3.8, 3.10 and 3.13) for script version.
+  * Linux users might have to install IDLE3 because it uses one of it's libraries.
+  * Windows 7 users can use standalone version as long they have installed the latest VC++ Redistributables (x86); script version needs the [PythonWin7](https://github.com/adang1345/PythonWin7) fork installed.
 
 ## Installation/Use
 
