@@ -13,7 +13,8 @@ Python-based, so it can be run in platforms besides Windows; Python script and s
 * HSVT, HTML and color picker-based color selection for precise or convenient color edition.
 * Can export and import color tables to and from CSV files, said files are compatible with both FCE versions.
 * Displays colors accounting for tolerance values in aim to pursue the best color display accuracy.
-* Add a random color set or generate a whole color table of random colors, with various settings.
+* Generate a predefined color table, add a random color set or even generate a whole color table of random colors (with various settings).
+
 
 ## Requirements
 
