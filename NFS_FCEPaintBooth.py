@@ -55,6 +55,7 @@ exportCsvIconData = b'iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAD5klEQVQ4y6
 importCsvIconData = b'iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAD2UlEQVQ4y6WV/0+VVRjAP89533vvC/LeLjIxuNqyoq0N2ioVuKyBpWu2Vqt+MFu/VPYXULrULHUSYebaWmv90FZkzkqxVkSrqY0EISwlr2wCQSD3kohr+l7gXl/e0w/XS5eFX5pnO9t5nj3n8zznOc95jgDUN+zYBrzGTQyt9fZXN2zeMktZ37BD3+yob9ihs5lmtjAwMIBhGGidthEElAA6vZa0LksDogmHF/3nBLPAIoKIoDX09/ddgcNIPE64uBiAWCxGOFyMRojHYtRU18yZmjnBIppYLIaIzMAzsogiFov/a6vk/4CFcDhMXl4eAL29vdTU1CAiRKNRSktLAYhGoyi5QbBSCu1pkslkWqfSjhJOAtdz+e7kfhYtXoRpmOkTXQWssoVfjnfOOLAsC9sOYucFERFs22b3wTfoHP2Idw6+jh20r6RCXR9cvqyCoqIiRAmpZIqJRIJEwkFEePOzTZydaOeJVWs5m2in7tON6SqZO+DZYBFhdHQUgIAVIC9oY9s2P5xpoudCC5XlS+kYOUhl+VJ6xlv4qmsvhqgbA2dmKpUi4Tg0Hd1Ln9NMdaSK7nOHSLmTdJ87RHWkihPn9rHvx8brX1423LIsfhvs4KehD1n14GpOnT9Myp0EIOVOcur8EaojK9jbtpVw4W3XjvhYR/vMuqv3GF90b2Vl1SMsmH8rNXetRRQoUzD9wkP3PEu4eDGRiqW83byOoURfpuTRWhfNAldWRCgsLATgy9Mb8fQULa0H+KTpfcTwCMzzEcg1COSa+PzCx59/QGvbEab1JU44jURqzeeGh4epetk3Zma8ZNIwNjaGiLBtdQuWZSGiWH/gYZLuJDnz/HhcxjAMPJkG4NtNY4TyQ7y1s4479jQ2rmHJMmWw3rxaG7QCFradrlUlOSQvT5CT48cVD6UUotJgz/Nm9hy/7wGgbx1Qqa52eVOpJI7j4DgOPnULztRFQsF8ArkG/lyFa13E8oc43tM5s7e1YF8u8LznsWDOiDWasrJSlCiUCCUFFfQP/sryO0sYmBhHGcIlYpTdW0Ld1y8xP38/Y1NxlJIRz9M+YMAEZhr0woUL50zLK89s44X3lrOSFeT4oiS9BPGp09wfeZSU67Jhz5O40w6h/FDwwvjfoPXTAlBXv327Umrztb6e1vEmzNAIT615nMFkO5cu/4UhPpbMK6fAfztn/ujh+28O6WntNh/d6T6W/dIFMAB3LnCk1rwb4We/GSiIRCpVuDhMMGQzPBjn9+hJb2joT9Ho3W273FqySy0Lrq8VeaTWfBfhRSAHjQKmgC5gS9su93DG7h8255+CV8L7SwAAAABJRU5ErkJggg=='
 addRndColorIconData = b'iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAEiklEQVQ4y62Va2xUVRDH/3Mfe+/u7Xa3dFvbUheKVBB5tlVAIhiklIAQMYIhFDUCicRY+8nIBwRDSBQ0GqIi8tFGBAyPKpYoKUSUgLRpCMEGtKVsN4Xu0u727u692/s4xw9IY2kRo05ykpMzM79MZv6TA/wHKy6+t0/4t9C6J1FXW7sS4fDc/w/8wiwcHxugD659f+Tw6tU1CIfnjIgR/w5Q/fJ4Me+pYtw4d2vobfVMHF8101Oz+CFVytecyT+dPT1j3ooNB6LRLAYGokNxNBpw2ZuTHrUN/riSIy8gLhhGyryqBKRvtRNXdq+toMUzSlQxdsvCg0Hg527O9190j5XVbFt58OAJRCLnRgcv3zzlQ5E8y2VRHhccqwoeBVxPGjBuuoMTjYR3U26cuvsdDFoMXhkYV+DB+YjJv2zjjfb4Nc82Nn4FgA9vxbLNjzRwRusAVuhyh0RBJO5yKirTBDXglTP5Cv3YLaI6YEKBC9cmMJLxcEggSDQ51XOxsiWKrwGwIfAzb02eDwivSpLUJ8nygKJ4bCOd1TJpk6ysS4GACm9QhBOU0XxdxGyWhBYg9Jhgje12Is0U0k0nNDuMaRe6cVS6A1Y5zij+wic8IWOSKAkTjaTzPM/y+QCi8WjaIyhUXpSbg0DIB3cK4ZsrDEusfn74kpm4HHU3yKKpE/FkaQAl62dDHdHjqo0NrQAqAECkbE9hcNe8St+arjOxL46UTQstLwhromNyJDpSmHvjJjt5Lrb74C/WPpfBAmAA1Ltq1RvuaDqu2L5pIbZvWgiXqyXT7eouW+9DnkKv9V82u7JJDtkHeII+XDBz0J1wYi6D8qcQMkRghw59BOl+y5Bu/QSMc7FIlUtTE0r9g9kcqPAgOA6I6D4iozQfVyIcQApAhnPOR2zei1Xw3Q12bF5ODNMyGXlnhann9/0+ADvL4QwCeQW50PJ85bklkg4gCcC5kydVbWxoAVAJAL+OUvH5qQ1Xh4IpiQL6GGAERgwejUNSacGMRWNLfHkeXR7j4ci6xYyoh6o2NvD36xbBZhwEwHb5MDDntw8BeHtvM6b7doAmjkFOiEGSJPTfsO2+WOoqEeVYpp0WRDrtCNgqAUB60MX1uAHOAcY4GAcMi8N1ORzGwRgwocgLAJCn5kELKpAlB5bjIL9IlUNhdUr0smFZWf0sON8hMCEhAWjdtvdU5V+rfG7JYwCAYz+0DKs+N1fHA2VepBMWMroFLhJCJQJudhos2WucJA3r4VK86b12JrXsq626kxgOl6OwZiufVeZH27UUAKC8pfadeApCluESe3pCfby7cE5R2C/cshyEiv3o7dLdrja9SfazVxio7/jOdgZguNwikd9QeNfw9rfhcwAqAAGdnUsFmQ6QxKuLw/lCtLPP7WxNNnl9eElwhcTRXe1DA7qnjmeV+XH49tW9vVFIATCbP+1Ywhm+S8SyNb0d6SZvQF4nujRwZGc7v98P0rplTzO27GkGwNsAJIgoXldXlwHAAODUZx1LU7HBd+WAvJaROAL6j0zTNNTX14/qW/H6JLpX3h8LhfRGTvQ9nwAAAABJRU5ErkJggg=='
 rndAllColorsIconData = b'iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAE6UlEQVQ4y52UW2xUVRSG/332uU3P3JnSMoMt0GIHi1AoYKPS+iA2REAUKUZCFeRFYsqTl/pmjCZgDJAg8UVflARDBCOhjWi0EVpuQjW0Umpv1BnoZTqdmc6cmXPmnL19EGukJYrrbe+91peVP/v/Kf5HNa1FU+22Zy9GIj4kk5FZe4T7hW5bgdMhD/lw8MzJEw0N9SgpqZm1j94PtKEKp7dWyfVPlaniHM0Kn+toW/7Ypt1fRCK5GZvT+4FurxbqV86X6VjcxNJCgXhUEj7b/kPV48/MhN8TvO7lBdT3xDzcvhBD4yqc3rJMql8VkunwhA3d5EibwNKQQvwFVsXZ9rYVc8Nrj9240T09T+4GPv1GRWVe52sUp1RHuKA7b47X+fVs+eZSIiqEI+QyhKkpC9kcgdOpwF9goaXfxk9D+VMfn8cWAPkZ4I3NDx2gRN4oUanUG1IFWQFPJXSij7EUksmJYM+Ee325NWe+rAuiJiKapuz8YD5BJLUgEtOTFPzbI+1orKys5OL0ps1LPmcMz4HkHYxbPJsSYCsCCS5yEz0Ab86QXQNAPqjeFmAK0E0HP3EtN9kdsXdLNJsihCfmexB85RGo7kefzIoAsOGtcC3nZLUoigOUUlkSqXsqoRcybhPTMlAU9MDhVqm4OkAPdwI7rQh0TlnCwGftQ+i1GTMB6AD5ZevWvfYnBw5CBACV46zimlshB3RQDuhpGzzHAQDjkXSvoJDFxW4nPIECxMOFaO3l8A+PW8Oj5ojNoNzRNUMI2PHjB//+Fb+2x3Dt+yGsCdgwRSCZtmAbeQgEKLvUe+R3rtZKqlKq+RQiKxJGTIq+CWvgx86pw5YJE0AcQBIA+0vaaY0bVwG+kRHMVXMYvplD1mCQsiaIgIeL+uOyJGkwPAVQfYDDV4C45hYd/lFk0/kEgAQAa4ZBXq2D4tUc9spFgN82QBmgZ/IQKEGW0c6aYmtJoVcmt/waFBeFw8eRY8zlcIrRoZ+T3/2p711Z8c5+EMpQb1nG5av9tOPSkNg9nqbDnFAuKk6+vEgqXurjKDVTGO9LIp/jsAzAF3ALTr+2cNPrYX02g4lcl3iuovlrre/d53OGtRmEu0xbZuUBGT4VCGkWJvMSorrFLc1mYIQywiBrnEDkGzKTZlX93sXDkl+eQs6exwi51fL+dZO2tTHEYhEsW7frJG5fyAiUconaCwodYFMW552Cj1xJyanfbDGW0VwZUZY1UbYFQSBEIJJogdVKqvialbF2EkKCNkFH/7lYdtp5JSWL0dDwAnJd+2k0YtQVefBgUkdxYm35i8QhlgUX+jilhGheVZBEC6ZlgXIZRAaPdOtmIpHqEAjfzogw2rrvOpsOoWQyjkhkHNXrdvAvv7kyeK7f7ukaQVffxfixBSu91f6go6R4oSaYuTxyaRM2A7xFMiaiWTY6kDlDVNZIOBlr2d/DZqRbMhlDPm+jb/CmCEC5824NXIp/6gk5qh0uaVGgWCNZPY9A0I2xobQ9eDXVKjrtXZyQWMu+HnbP2IxGowDA7xyzhJB0U1OTceyj1qPukFLj8NKy4gf85NbQpN1/JdGqFvCXKBfip/Zd5/816C1N0+w9e/bwQ4cOAQAGL08edRapNVnDKBvuSrSqHrpD4kLiqw/+Cf3XqqqqmvV+w5vh9+qbw+71b1eSe83+AYXFOeQGt6WNAAAAAElFTkSuQmCC'
+generateColorsIconData = b'iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAACsklEQVQ4y62VW0hUURSGv7XPmSKhC2pOEyQEQUX6kHSHyiy6WGDUUw9BBEVUdCEiikzIlC5vKpJFJNRLBOUYhV3ohlAZQiYVPaQvOo0JEWWmc/SsHmbOjI2WVq6Xs87i7O/f+99r7yP8Z/R1FAjgAxzbH1SvLl5y+mzJSaDwb6BGXNIm9RCY3IVllN6Iqc5f2rrH9ge77QHfFR45fGzEUFUHnLe43Q9xNA0lhc+f3m1TrEd9HQXX7OQBra2tWJaFqiIiiEQXNTAHxSchUswDLN84dMxmxEplQvoT1L2+RfRLo0kGewAPoqqgiqqirqIK0I+RLkR6UUkHkwoYYCzQnwJMHBaMAF7NCMaAiIUr43GZjPS1gFMPbgeRngZEvzcDn38LNsZEnyKImISYGIxYuEyhh8VEdAZEXmI7N2n50IbgXgVC9lBgYwyqytPMTABy29rI37gJgLraIPsO7gWgoqyCywcWALC/uomG5q/kzAq9Bn4MmvHLxoa4QLytjPlFOJFbiXxMFl3dPmx/sNv2B3XQjBfOX0QgECAcDrMi1O5ZzN1btUjspaKsMm7N1vJPSPw4JESHtCIcDiMiFJx4BEBNUS5v378CIGv2XPYPsOLQhiIArjRU/Xp4hu2KEVqRHPZQRW/w7eJVQFRkbvY8xAggnK+8EKtD+d3TsTp/nvHzF88S8KZSaCoh4kRYmb+BvLXriUQcdu3eya7dO3CcXpavXsuyVWuGBy9etISMjIzRt0JE6OzsRESwcgpBBEuEx/fq4jt/sepSXKD+4YNo24zEYy/y1q0H4E7NDXxvzgLQn32U0NQAANM6PmJ3RnPm6J+tSF7uqHaFF4/v1yGxrpCFxbHLCGZ++xoTEGR6F4gZHuz3+xmNiINd1z115lzp8f+BtbeFtg/65yXb/I/s+A7+BCnd20Og2LBEAAAAAElFTkSuQmCC'
 
 ## check for unsaved changes upon being called on opening
 def unsavedChanges():
@@ -82,7 +83,7 @@ root.iconphoto(False, largeIcon, smallIcon)
 ## "About" dialog
 def aboutDlg():
     aboutMsg = messagebox.showinfo("About NFS FCE Paint Booth",
-                                   "NFS FCE Paint Booth v1.5 \n"
+                                   "NFS FCE Paint Booth v1.6 \n"
                                    "A NFS3/HS FCE color editor that doesn't suck!\n"
                                     "(c) 2025 and later AJ_Lethal\n\n"
                                     "Licensed under the MIT License")
@@ -157,6 +158,36 @@ rndAllColAmount = tk.IntVar()
 rndAllColAmount.set(10)
 
 dirtyFlag = 0
+
+genColorsModeVals =["Vivid colors","Subdued colors"]
+genColorsModeIdx = None
+
+genColorsModeColors = [
+                        [
+                            [0,255,150,127],
+                            [30,255,150,127],
+                            [60,255,150,127],
+                            [100,255,150,127],
+                            [180,192,127,127],
+                            [225,255,127,127],
+                            [270,255,64,127],
+                            [0,0,8,127],
+                            [0,0,108,127],
+                            [0,0,180,127]
+                        ],
+                        [
+                            [0,255,80,127],
+                            [30,128,48,127],
+                            [60,128,48,127],
+                            [100,255,32,127],
+                            [180,96,64,127],
+                            [225,255,32,127],
+                            [270,160,32,127],
+                            [0,0,8,127],
+                            [0,0,108,127],
+                            [0,0,180,127]
+                        ]
+                    ]
 
 rndColorMode3Vals =["Only primary color","All colors"]
 rndColorMode4Vals =["Only primary color","Only primary & secondary color","All colors except hair color","All colors"]
@@ -312,6 +343,10 @@ def openFce(*args):
         dupColorBtn.state(['!disabled'])
     if colorAmount > 0:
         remColorBtn.state(['!disabled'])
+
+    generateColorsBtn.state(['!disabled'])
+    genColorsModeCbox['state'] = 'readonly'
+    genColorsModeCbox.current(0)
     rndAllColorsBtn.state(['!disabled'])
     rndColorsLbl.state(['!disabled'])
     rndColorsSbox.state(['!disabled'])
@@ -811,6 +846,42 @@ def moveSlotDown(*args):
         loadColorUI()
         dirtyFlag = 1
 
+## makes a whole new color table defined by set mode
+def generateColors(*args):
+    global dirtyFlag
+    global colorAmount
+    colorAmount = 10
+    if fcePath:
+        colors[0][0] = 10      
+        if fceType == 'NFSHS':
+            if genColorsModeCbox.current() == 0:
+                for i in range(colorAmount):
+                    colors[1][i][0] = genColorsModeColors[0][i]
+                    colors[1][i][1] = [0,0,64,127]
+                    colors[1][i][2] = [0,0,16,127]
+                    colors[1][i][3] = [30,190,70,127]
+            else:
+                for i in range(colorAmount):
+                    colors[1][i][0] = genColorsModeColors[1][i]
+                    colors[1][i][1] = [0,0,64,127]
+                    colors[1][i][2] = [0,0,16,127]
+                    colors[1][i][3] = [30,190,70,127]
+        else:
+            if genColorsModeCbox.current() == 0:
+                for i in range(colorAmount):
+                    colors[1][i][0] = genColorsModeColors[0][i]
+                    colors[1][i][2] = [0,0,16,127]
+            else:
+                for i in range(colorAmount):
+                    colors[1][i][0] = genColorsModeColors[1][i]
+                    colors[1][i][2] = [0,0,16,127]
+                    
+        colorListBoxPopulate()
+        colorListUI.selection_clear(0, tk.END)
+        colorListUI.selection_set(0)
+        loadColorUI()
+        dirtyFlag = 1
+
 ## random color function
 def randNfsColor():
     global randHue, randSat, randBri
@@ -1025,6 +1096,7 @@ exportCsvIcon = tk.PhotoImage(data=exportCsvIconData)
 importCsvIcon = tk.PhotoImage(data=importCsvIconData)
 addRndColorIcon = tk.PhotoImage(data=addRndColorIconData)
 rndAllColorsIcon = tk.PhotoImage(data=rndAllColorsIconData)
+generateColorsIcon = tk.PhotoImage(data=generateColorsIconData)
 
 ## defining UI elements
 openFCEBtn = ttk.Button(topFrame, image=openBtnIcon, text='Open FCE File', command=openFce)
@@ -1058,26 +1130,32 @@ moveSlotDownBtn = ttk.Button(leftFrame, image=moveSlotDownIcon, text="Move Color
 moveSlotDownBtn.grid(row = 8, column=4,sticky="NSEW")
 rndSeparator1 = ttk.Separator(leftFrame, orient="horizontal")
 rndSeparator1.grid(row = 9, column = 0, columnspan=5, pady=2, sticky="EW")
-addRndColorBtn = ttk.Button(leftFrame, image=addRndColorIcon, text="Add Random Color", state='disabled', command = addRndColor)
-addRndColorBtn.grid(row = 10, column=0,sticky="NSEW")
-rndAllColorsBtn = ttk.Button(leftFrame, image=rndAllColorsIcon, text="Randomize All Colors", state='disabled', command = rndAllColors)
-rndAllColorsBtn.grid(row = 10, column=1, sticky="NSEW")
-rndColorsLbl = ttk.Label(leftFrame, text="No. of colors: ", state='disabled')
-rndColorsLbl.grid(row = 10, column=2, columnspan=2,sticky="W")
-rndColorsSbox = ttk.Spinbox(leftFrame, from_=1, to=16, width=3, state='disabled', textvariable = rndAllColAmount, justify='right')
-rndColorsSbox.grid(row = 10, column=4, sticky="WE")
-rndColorModeCbox = ttk.Combobox(leftFrame, values='', state='disabled')
-rndColorModeCbox.grid(row = 11, column=0, columnspan= 5,sticky="WE", pady=2)
+generateColorsBtn = ttk.Button(leftFrame, image=generateColorsIcon, text="Generate Color Table", state='disabled', command = generateColors)
+generateColorsBtn.grid(row = 10, column = 0, pady=2, sticky="EW")
+genColorsModeCbox = ttk.Combobox(leftFrame, values=genColorsModeVals, state='disabled')
+genColorsModeCbox.grid(row = 10, column=1, columnspan= 4,sticky="WE", pady=2, padx=2)
 rndSeparator2 = ttk.Separator(leftFrame, orient="horizontal")
-rndSeparator2.grid(row = 12, column = 0, columnspan=5, pady=2, sticky="EW")
+rndSeparator2.grid(row = 11, column = 0, columnspan=5, pady=2, sticky="EW")
+addRndColorBtn = ttk.Button(leftFrame, image=addRndColorIcon, text="Add Random Color", state='disabled', command = addRndColor)
+addRndColorBtn.grid(row = 12, column=0,sticky="NSEW")
+rndAllColorsBtn = ttk.Button(leftFrame, image=rndAllColorsIcon, text="Randomize All Colors", state='disabled', command = rndAllColors)
+rndAllColorsBtn.grid(row = 12, column=1, sticky="NSEW")
+rndColorsLbl = ttk.Label(leftFrame, text="No. of colors: ", state='disabled')
+rndColorsLbl.grid(row = 12, column=2, columnspan=2,sticky="W")
+rndColorsSbox = ttk.Spinbox(leftFrame, from_=1, to=16, width=3, state='disabled', textvariable = rndAllColAmount, justify='right')
+rndColorsSbox.grid(row = 12, column=4, sticky="WE")
+rndColorModeCbox = ttk.Combobox(leftFrame, values='', state='disabled')
+rndColorModeCbox.grid(row = 13, column=0, columnspan= 5,sticky="WE", pady=2)
+rndSeparator3 = ttk.Separator(leftFrame, orient="horizontal")
+rndSeparator3.grid(row = 14, column = 0, columnspan=5, pady=2, sticky="EW")
 leftSubFrame = ttk.Frame(leftFrame)
-leftSubFrame.grid(row = 13, column = 0, columnspan = 6, sticky='NSEW')
+leftSubFrame.grid(row = 14, column = 0, columnspan = 6, sticky='NSEW')
 leftSubFrame.columnconfigure(0, weight=1)
 leftSubFrame.columnconfigure(1, weight=1)
 importColorsBtn = ttk.Button(leftSubFrame, image=importCsvIcon, compound='left', text="Import Colors", state='disabled', command = csvImport)
-importColorsBtn.grid(row = 13, column=0, sticky="NSEW")
+importColorsBtn.grid(row = 15, column=0, sticky="NSEW")
 exportColorsBtn = ttk.Button(leftSubFrame, image=exportCsvIcon, compound='left', text="Export Colors", state='disabled', command = csvExport)
-exportColorsBtn.grid(row = 13, column=1, sticky="NSEW")
+exportColorsBtn.grid(row = 15, column=1, sticky="NSEW")
 
 hueLabel = ttk.Label(rightFrame, text="Hue", anchor="center", state='disabled')
 hueLabel.grid(row = 0, column = 2, padx=2, pady=2, sticky='NSEW')
@@ -1221,6 +1299,7 @@ aboutTip = Hovertip(aboutBtn, 'About...')
 addColorTip = Hovertip(addColorBtn, 'Add color (Ctrl+A)')
 remColorTip = Hovertip(remColorBtn, 'Remove color (Ctrl+Del)')
 dupColorTip = Hovertip(dupColorBtn, 'Duplicate color (Ctrl+D)')
+genColorsTip = Hovertip(generateColorsBtn, 'Generate color table (Ctrl+G)')
 addRndColorTip = Hovertip(addRndColorBtn, 'Add random color (Ctrl+R)')
 rndAllColorsTip = Hovertip(rndAllColorsBtn, 'Randomize all colors (Ctrl+Shift+R)')
 rndColorModeTip = Hovertip(rndColorModeCbox, 'Set random color mode')
@@ -1241,6 +1320,8 @@ root.bind('<Control-A>', addColor)
 root.bind('<Control-d>', dupColor)
 root.bind('<Control-D>', dupColor)
 root.bind('<Control-Delete>', remColor)
+root.bind('<Control-g>', generateColors)
+root.bind('<Control-G>', generateColors)
 root.bind('<Control-r>', addRndColor)
 root.bind('<Control-R>', addRndColor)
 root.bind('<Control-Shift-r>', rndAllColors)
